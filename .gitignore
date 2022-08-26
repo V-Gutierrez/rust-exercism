@@ -2,3 +2,4 @@ target
 *.d
 *.meta
 debug
+.history
